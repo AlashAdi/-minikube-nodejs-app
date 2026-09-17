@@ -6,4 +6,4 @@
 
 | № | Тема | Файлы |
 |---|------|-------|
-| 1 | Среда разработки ИС — Academic Risk Classifier (DecisionTree) | [ноутбук](lab1/student_variant_1.ipynb) · [отчёт](lab1/otchet_variant_1.docx) |
+| 1 | Среда разработки ИС — Academic Risk Classifier (DecisionTree) | [ноутбук](student_variant_1_(1).ipynb) · [отчёт](lab1/otchet_variant_1.docx) |
